@@ -17,8 +17,7 @@ hr{
   color: #00917c;
   font-family: cursive;
   font-size: 5rem;
-  position:relative;
-  left: 39%;
+  text-align: right;
 }
 .Player1{
   position: relative;
